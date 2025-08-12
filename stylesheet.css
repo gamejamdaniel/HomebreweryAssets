@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Mork Dungeon';
+    src: url('Mork_Dungeon.woff2') format('woff2'),
+        url('Mork_Dungeon.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
