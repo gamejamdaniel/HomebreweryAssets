@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'RhymeChronicle1494';
+    src: url('notincluded.woff2') format('woff2'),
+        url('notincluded.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
